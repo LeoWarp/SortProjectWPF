@@ -1,0 +1,11 @@
+C:\Users\Андрей\Desktop\SortProject\SortProject.Models\bin\Debug\SortProject.Models.dll
+C:\Users\Андрей\Desktop\SortProject\SortProject.Models\bin\Debug\SortProject.Models.pdb
+C:\Users\Андрей\Desktop\SortProject\SortProject.Models\obj\Debug\SortProject.Models.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\SortProject\SortProject.Models\obj\Debug\SortProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\SortProject\SortProject.Models\obj\Debug\SortProject.Models.dll
+C:\Users\Андрей\Desktop\SortProject\SortProject.Models\obj\Debug\SortProject.Models.pdb
+D:\Projects\SortProject\SortProject.Models\bin\Debug\SortProject.Models.dll
+D:\Projects\SortProject\SortProject.Models\bin\Debug\SortProject.Models.pdb
+D:\Projects\SortProject\SortProject.Models\obj\Debug\SortProject.Models.csproj.CoreCompileInputs.cache
+D:\Projects\SortProject\SortProject.Models\obj\Debug\SortProject.Models.dll
+D:\Projects\SortProject\SortProject.Models\obj\Debug\SortProject.Models.pdb
